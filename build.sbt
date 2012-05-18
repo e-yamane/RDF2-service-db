@@ -1,6 +1,6 @@
 name := "rdf2-service-db"
 
-description := "Rough Diamond Framework Service Locator"
+description := "Rough Diamond Framework Database Access Service"
 
 organization := "jp.rough_diamond"
 
